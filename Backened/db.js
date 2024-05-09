@@ -1,4 +1,4 @@
-let url = "mongodb://127.0.0.1:27017/iNotebook"; //this is url for mongodb and localhost nhi user karna, iski jagah 127.0.0.1 use karna vrna error.
+let url = "mongodb+srv://amishapatwal02:amisha@cluster0.dyvzro7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"; //this is url for mongodb and localhost nhi user karna, iski jagah 127.0.0.1 use karna vrna error.
 
 const mongoose = require("mongoose"); //import mongoose
 
